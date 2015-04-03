@@ -24,3 +24,29 @@ c:\users\thiep.vu\documents\visual studio 2013\Projects\CICDProject\CICDProject\
 c:\users\thiep.vu\documents\visual studio 2013\Projects\CICDProject\CICDProject\obj\Debug\CICDProject.csprojResolveAssemblyReference.cache
 c:\users\thiep.vu\documents\visual studio 2013\Projects\CICDProject\CICDProject\obj\Debug\CICDProject.dll
 c:\users\thiep.vu\documents\visual studio 2013\Projects\CICDProject\CICDProject\obj\Debug\CICDProject.pdb
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\CICDProject.dll.config
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\CICDProject.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\CICDProject.pdb
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\Newtonsoft.Json.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Net.Http.Formatting.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Helpers.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Http.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Http.WebHost.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Mvc.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Razor.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Webpages.Deployment.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Webpages.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Webpages.Razor.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Razor.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Webpages.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Webpages.Deployment.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Webpages.Razor.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Helpers.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Mvc.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\Newtonsoft.Json.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Net.Http.Formatting.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Http.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\bin\System.Web.Http.WebHost.xml
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\obj\Debug\CICDProject.csprojResolveAssemblyReference.cache
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\obj\Debug\CICDProject.dll
+C:\thiepvu\jenkins\workspace\abc\CICDProject\CICDProject\obj\Debug\CICDProject.pdb
